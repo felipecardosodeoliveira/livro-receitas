@@ -1,3 +1,3 @@
-# Strogonff de Frango
+# Strogonff de Frango:chicken
 
 ### A melhor receita do mundo
