@@ -1,3 +1,3 @@
-#Strogonff de Frango
+# Strogonff de Frango
 
-###A melhor receita do mundo
+### A melhor receita do mundo
